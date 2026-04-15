@@ -1,0 +1,6 @@
+El UML muestra un sistema donde hay una clase principal llamada Mascota que tiene datos básicos como nombre y edad definidos como protegidos,
+lo que significa que las clases hijas como Perro y Gato pueden usarlos directamente,pero no cualquier otra clase.
+A partir de Mascota se crean estas dos clases que heredan sus atributos y métodos,
+agregando características propias como la raza o si es de interior,
+y modificando comportamientos como el sonido. En general, este diseño permite reutilizar código
+y organizar mejor el programa usando herencia, encapsulamiento y polimorfismo.
